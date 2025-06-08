@@ -1,10 +1,6 @@
 # Landing Page
 
-Landing Page desarrollado en HTML, CSS y Javascript
-
-## Comparte
-
-Si te gusto el proyecto compártelo con otros, esto es un Landing Page GRATUITO para la comunidad de [FRONT END CHILE](https://www.facebook.com/groups/FrontEndChile/) y el mundo.
+Landing Page para la empresa INNOVA
 
 ## Colaborar
 
